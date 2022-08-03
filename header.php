@@ -64,7 +64,7 @@
 <body style="background-color:powderblue;">
 
 <div class="sidenav">
-    <a href="about.php">About</a>
+    <a href="index.php">About</a>
     <a href="services.php">Service Users & Activities</a>
     <a href="newsletter.php">News Letter</a>
     <a href="gallery.php">Gallery</a>
