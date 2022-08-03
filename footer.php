@@ -1,5 +1,5 @@
 <div id="footer">
-    <p>Copyright &copy; 2022 XL Care</p>
+    <p><strong>Copyright &copy; 2022 XL Care</strong></p>
 </div>
 
 </div>
